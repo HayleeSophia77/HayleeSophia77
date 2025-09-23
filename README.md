@@ -3,11 +3,6 @@ I am a 21-year-old college senior who is currently working on getting an associa
 
 Your are able to reach me through GitHub. 
 
-Two truths, one lie:
-I bought my first car at 21 with no cosigner.
-
-I have  six cats.
-
 <!--
 **HayleeSophia77/HayleeSophia77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
