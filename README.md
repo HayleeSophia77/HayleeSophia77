@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=HayleySophia77&color=cobalt&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=HayleySophia77&color=blueviolet&style=flat-square)
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Future+Cybersecurity+Professional;Gaming+Enthusiast;Always+Building+Something)
   
@@ -45,11 +45,11 @@ I'm a 22-year-old computer science student at FTCC, grinding towards my Associat
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HayleeSophia77&show_icons=true&theme=cobalt&hide_border=true)
+  ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HayleeSophia77&show_icons=true&theme=ocean_dark&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HayleeSophia77&theme=cobalt&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HayleeSophia77&theme=ocean_dark&hide_border=true)
   
-  ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HayleeSophia77&layout=compact&theme=cobalt&hide_border=true)
+  ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HayleeSophia77&layout=compact&theme=ocean_dark&hide_border=true)
   
 </div>
 
