@@ -45,11 +45,11 @@ I'm a 22-year-old computer science student at FTCC, grinding towards my Associat
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HayleySophia77&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HayleeSophia77&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HayleySophia77&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HayleeSophia77&theme=tokyonight&hide_border=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HayleySophia77&layout=compact&theme=tokyonight&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HayleeSophia77&layout=compact&theme=tokyonight&hide_border=true)
   
 </div>
 
