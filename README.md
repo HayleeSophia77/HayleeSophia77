@@ -2,9 +2,9 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=HayleySophia77&color=blueviolet&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=HayleySophia77&color=blue&style=flat-square)
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Future+Cybersecurity+Professional;Gaming+Enthusiast;Always+Building+Something)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Future+Cybersecurity+Professional;Gaming+Enthusiast;Always+Building+Something)
   
 </div>
 
@@ -20,11 +20,11 @@ I'm a 22-year-old computer science student at FTCC, grinding towards my Associat
 
 ## Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-2088FF?style=for-the-badge&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-0E1117?style=for-the-badge&logo=Streamlit&logoColor=white)
 
 **Currently Exploring:**
 - Cybersecurity fundamentals
