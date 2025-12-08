@@ -1,19 +1,97 @@
-## Hi, I am Haylee. 
-I am a 22-year-old college senior who is currently working on getting an associate in computer science. When I graduate, I plan on transferring to a four-year university to continue my journey in computer science and get a bachelor in cybersecurity. I am currently learning advanced java and python, database programming, and system analysis and design. Oustide of coding I am a very avide gamer. My favorite games are any Legend of Zelda game(except TOTK), Crime Scene Cleaner, Infinity Nikki, Deltarune, Minecraft, and more.
+<!-- HEADER BANNER -->
+<div align="center">
+  <img src="https://i.imgur.com/w8aT4ZR.png" width="500" alt="cute berry banner"/>
+</div>
 
-Your are able to reach me through GitHub. 
+<h1 align="center">🍓 Hi, I'm Haylee! 🍓</h1>
+<p align="center"><b>Computer Science Student • She/Her • Aspiring Cybersecurity Engineer</b></p>
 
-<!--
-**HayleeSophia77/HayleeSophia77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## 🌸 About Me (Cute Edition)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi! I'm **Haylee**, also known online as **VerryBerryBear** ✨  
+I'm a Computer Science student working toward transferring to a 4-year university to study **Cybersecurity**.  
+
+I love:
+- 💻 Coding in Python & Java  
+- 🎮 Cozy games, puzzles, and story-rich games  
+- 🍓 Aesthetics, pink/pastel themes, and customization  
+- 📚 Learning new skills & improving my projects  
+
+I want my GitHub to reflect *who I truly am* — a student who loves tech, creativity, and cute things 💕
+
+---
+
+## 🍬 What I'm Working On
+
+- 🧠 **Python autograder project** for advanced programming  
+- 🌿 **Java Swing wedding rental GUI**  
+- 🌐 Building my dev style & sharpening my CS fundamentals  
+- 🛡️ Preparing to dive deeper into **cybersecurity**
+
+---
+
+## 🍓 Tech Stack (Pastel Theme)
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-ffdff1?style=for-the-badge&logo=python&logoColor=4373b6)
+![Java](https://img.shields.io/badge/-Java-ffe8f0?style=for-the-badge&logo=openjdk&logoColor=be4b60)
+![HTML](https://img.shields.io/badge/-HTML-ffe0ec?style=for-the-badge&logo=html5&logoColor=ff6b81)
+![Streamlit](https://img.shields.io/badge/-Streamlit-ffd6e8?style=for-the-badge&logo=streamlit&logoColor=ff4669)
+![Git](https://img.shields.io/badge/-Git-ffeaf3?style=for-the-badge&logo=git&logoColor=ff697a)
+
+</div>
+
+---
+
+## 💖 Featured Projects
+
+### 📁 **CTS-285 Autograder**
+Python project using AST checks, test cases, and program analysis for course grading.
+
+### 🎀 **Wedding Rental GUI**
+A Java Swing program with themed UI and clean layout (still adding polish ✨).
+
+### 🌿 **Streamlit Wellness Portal**
+Mock dashboard with login, session state, and metrics.
+
+---
+
+## 🎀 GitHub Stats (Pastel Versions)
+
+<div align="center">
+
+![Haylee’s GitHub stats](https://github-readme-stats.vercel.app/api?username=HayleeSophia77&show_icons=true&theme=calm_pink)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HayleeSophia77&layout=compact&theme=calm_pink)
+
+</div>
+
+---
+
+## 🌼 Connect With Me
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/-Instagram-ffb6d9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bluebear.lee)  
+📧 **Email:** sophiahays55@gmail.com  
+
+</div>
+
+---
+
+## 🍓 Fun Facts
+
+- 🌸 My aesthetic is cozy, soft, pastel, and cute  
+- 🎮 I play Zelda (not TOTK), Deltarune, Minecraft, Crime Scene Cleaner, Infinity Nikki & more  
+- 🧸 I love mixing tech with creativity  
+- 🎯 Goal: Become a cybersecurity engineer while keeping my personal style  
+
+---
+
+<div align="center">
+  <img src="https://i.imgur.com/wjEJp1A.png" width="200" alt="cute bear"/>
+  <p><i>“Stay curious, stay kind, and stay berry cute.” 🍓</i></p>
+</div>
