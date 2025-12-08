@@ -76,7 +76,7 @@ When I'm not debugging code or working on projects, I'm deep into gaming:
 
 <div align="center">
   
-[![Spotify](https://novatorem-kappa-amber.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+[![Spotify](https://YOUR-VERCEL-APP.vercel.app/api/spotify)](https://open.spotify.com/user/22xpaaevv4dy33p6jgrvy7mea)
 
 </div>
 
@@ -89,7 +89,7 @@ When I'm not debugging code or working on projects, I'm deep into gaming:
 
 ## Activity Graph
 
-[![Lee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HayleySophia77&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Lee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HayleeSophia77&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Random Dev Fact
 
