@@ -1,94 +1,99 @@
-<!-- HEADER BANNER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/HayleeSophia77/HayleeSophia77/refs/heads/main/VeryBerryBear.png" width="500" alt="cute berry banner"/>
-</div>
+<!--
+  Hi! This is my GitHub profile README.
+  Feel free to look around or say hi 😊
+-->
 
-<h1 align="center">🍓 Hi, I'm Haylee! 🍓</h1>
-<p align="center"><b>Computer Science Student • She/Her • Aspiring Cybersecurity Engineer</b></p>
+<h1 align="center">Hi, I'm Haylee 👋</h1>
+<h3 align="center">CS student • Python & Java • Cozy UI enjoyer</h3>
 
-<br>
+<p align="center">
+  <em>aka VerryBerryBear 🍓</em>
+</p>
+
+---
 
 ## 🌸 About Me
 
-Hi! I'm **Haylee**, also known online as **VerryBerryBear**, and **HayleeSophia77** ✨  
-I'm a Computer Science student working toward transferring to a 4-year university to study **Cybersecurity**.  
-
-I love:
-- 💻 Coding in Python & Java  
-- 🎮 Cozy games, puzzles, and story-rich games  
-- 🍓 Aesthetics, pink/pastel themes, and customization  
-- 📚 Learning new skills & improving my projects  
-
-I want my GitHub to reflect *who I truly am* — a student who loves tech, creativity, and cute things 💕
+- 🎓 Computer Science student in North Carolina  
+- 📚 Already hold **2x Associate degrees in Criminal Justice**  
+- 💻 Currently working on **Python autograders**, **Streamlit apps**, and **Java Swing GUIs**  
+- ✨ I like making things that are **practical for class** but also **cute and user-friendly**  
+- ☕ Fueled by caffeine, deadlines, and way too many ideas at once
 
 ---
 
-## 🍬 What I'm Working On
+## 🛠 Tech Stack
 
-- 🧠 **Python autograder project** for advanced programming  
-- 🌿 **Java Swing wedding rental GUI**  
-- 🌐 Building my dev style & sharpening my CS fundamentals  
-- 🛡️ Preparing to dive deeper into **cybersecurity**
+**Languages**
 
----
+- 🐍 Python  
+- ☕ Java  
+- 🌐 HTML / CSS  
 
-## 🍓 Tech Stack
+**Frameworks & Libraries**
 
-<div align="center">
+- 📊 Streamlit  
+- 🖼️ Java Swing / GUI libraries  
 
-![Python](https://img.shields.io/badge/-Python-ffdff1?style=for-the-badge&logo=python&logoColor=4373b6)
-![Java](https://img.shields.io/badge/-Java-ffe8f0?style=for-the-badge&logo=openjdk&logoColor=be4b60)
-![HTML](https://img.shields.io/badge/-HTML-ffe0ec?style=for-the-badge&logo=html5&logoColor=ff6b81)
-![Streamlit](https://img.shields.io/badge/-Streamlit-ffd6e8?style=for-the-badge&logo=streamlit&logoColor=ff4669)
-![Git](https://img.shields.io/badge/-Git-ffeaf3?style=for-the-badge&logo=git&logoColor=ff697a)
+**Tools**
 
-</div>
+- 🐙 Git & GitHub  
+- 🧰 VS Code, IntelliJ / other IDEs  
+- 🪟 Windows & a bit of Linux
 
 ---
 
-## 💖 Featured Projects
+## 📚 Current & Notable Projects
 
-### 📁 **CTS-285 Autograder**
-Python project using AST checks, test cases, and program analysis for course grading.
+Here are some of the things I’ve been building for classes and practice:
 
-### 🎀 **Wedding Rental GUI**
-A Java Swing program with themed UI and clean layout (still adding polish ✨).
+- **Python Autograder (CTS-285)**  
+  A modular autograder that checks student Python assignments using AST analysis, style checks, and test cases.
 
-### 🌿 **Streamlit Wellness Portal**
-Mock dashboard with login, session state, and metrics.
+- **Citizen Wellness Portal – Streamlit**  
+  A mock “portal” app with registration, login, dashboards, and playful wellness metrics using Streamlit.
 
----
+- **Wedding Rental Cost Estimator – Java Swing**  
+  GUI app to calculate wedding table/chair rental costs with a clean layout and friendly messages.
 
-## 🎀 GitHub Stats
+- **Course Repos**  
+  - `CTI-110` – Web, programming, and database basics  
+  - `CSC-121` – Python programming projects  
+  - `CTS-285` – Systems analysis / project work
 
-<div align="center">
-
-![Haylee’s GitHub stats](https://github-readme-stats.vercel.app/api?username=HayleeSophia77&show_icons=true&theme=calm_pink)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HayleeSophia77&layout=compact&theme=calm_pink)
-
-</div>
+> 🧪 I like turning school assignments into projects I can actually show off here.
 
 ---
 
-## 🌼 Connect With Me
+## 🚀 What I’m Learning / Working On
 
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/-Instagram-ffb6d9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bluebear.lee)  
-📧 **Email:** sophiahays55@gmail.com  
-
-</div>
+- Writing **cleaner, more modular code**  
+- Getting more comfortable with **Git workflows** (branches, PRs, etc.)  
+- Designing **better UIs** for both desktop and web  
+- Exploring small side projects (bots, tools, or little games)
 
 ---
 
-## 🍓 Fun Facts
+## 🤝 Collaboration & Interests
 
-- 🎮 I play The Legend of Zelda, Deltarune, Minecraft, Crime Scene Cleaner, Infinity Nikki & more.   
+- 💬 Open to: pair-programming, debugging sessions, or small student projects  
+- 🎮 Interests: games, cozy UIs, and tools that help students learn  
+- 🧠 I’m also very into using **AI tools** responsibly for learning & code review
+
+If you’re another student or dev and want to chat about projects, feel free to reach out 👇
 
 ---
 
-<div align="center">
-  <img src="https://i.imgur.com/wjEJp1A.png" width="200" alt="cute bear"/>
-  <p><i>“Stay curious, stay kind, and stay berry cute.” 🍓</i></p>
-</div>
+## 📫 How to Reach Me
+
+- 📧 Email: **sophiahays55@gmail.com**  
+- 📷 Instagram: [@bluebear.lee](https://www.instagram.com/bluebear.lee)
+
+---
+
+<p align="center">
+  Thanks for stopping by 💙  
+  <br>
+  <sub>Slowly filling this place with more code and cute projects.</sub>
+</p>
+
