@@ -54,21 +54,25 @@ I'm a 22-year-old computer science student at FTCC, grinding towards my Associat
 </div>
 
 ## Gaming Life
-```bash
-$ cat ~/gaming_profile.txt
 
-CURRENT_GAMES=["Infinity Nikki", "Crime Scene Cleaner"]
-FAVORITES=["Legend of Zelda (no TOTK)", "Deltarune", "Minecraft"]
-PLAYTESTER_STATUS="Active"
-HOURS_LOGGED="Too many to count"
+**My Gaming Tier List:**
+```diff
+S+ Tier (Masterpieces)
++ Legend of Zelda series (OG titles only)
++ Deltarune
 
-# Games I'll always come back to
-while true; do
-    play_minecraft()
-    replay_deltarune()
-    avoid_totk()
-done
+A Tier (Currently Obsessed)
++ Infinity Nikki
++ Crime Scene Cleaner
+
+Always Playing
++ Minecraft
+
+The Exception
+- Tears of the Kingdom (we don't talk about this one)
 ```
+
+**Side quest unlocked:** Steam playtesting for indie devs
 
 ## Current Vibe
 
