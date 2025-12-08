@@ -10,7 +10,7 @@
 
 ## 🌸 About Me
 
-Hi! I'm **Haylee**, also known online as **VerryBerryBear** ✨  
+Hi! I'm **Haylee**, also known online as **VerryBerryBear**, and **HayleeSophia77** ✨  
 I'm a Computer Science student working toward transferring to a 4-year university to study **Cybersecurity**.  
 
 I love:
