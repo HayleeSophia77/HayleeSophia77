@@ -45,11 +45,11 @@ I'm a 22-year-old computer science student at FTCC, grinding towards my Associat
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HayleeSophia77&show_icons=true&theme=ocean_dark&hide_border=true)
+  ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HayleeSophia77&show_icons=true&theme=algolia&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HayleeSophia77&theme=ocean_dark&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HayleeSophia77&theme=algolia&hide_border=true)
   
-  ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HayleeSophia77&layout=compact&theme=ocean_dark&hide_border=true)
+  ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HayleeSophia77&layout=compact&theme=algolia&hide_border=true)
   
 </div>
 
