@@ -115,6 +115,4 @@ When I'm not debugging code or working on projects, I'm deep into gaming:
   
 **Thanks for stopping by!**
   
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-  
 </div>
