@@ -54,23 +54,21 @@ I'm a 22-year-old computer science student at FTCC, grinding towards my Associat
 </div>
 
 ## Gaming Life
+```bash
+$ cat ~/gaming_profile.txt
 
-When I'm not debugging code or working on projects, I'm deep into gaming:
+CURRENT_GAMES=["Infinity Nikki", "Crime Scene Cleaner"]
+FAVORITES=["Legend of Zelda (no TOTK)", "Deltarune", "Minecraft"]
+PLAYTESTER_STATUS="Active"
+HOURS_LOGGED="Too many to count"
 
-<div align="center">
-
-![Zelda](https://img.shields.io/badge/Legend_of_Zelda-0969DA?style=for-the-badge&logo=nintendo&logoColor=white)
-![Crime Scene Cleaner](https://img.shields.io/badge/Crime_Scene_Cleaner-1E90FF?style=for-the-badge&logoColor=white)
-![Infinity Nikki](https://img.shields.io/badge/Infinity_Nikki-4682B4?style=for-the-badge&logoColor=white)
-
-![Deltarune](https://img.shields.io/badge/Deltarune-5F9EA0?style=for-the-badge&logoColor=white)
-![Minecraft](https://img.shields.io/badge/Minecraft-00BFFF?style=for-the-badge&logo=minecraft&logoColor=white)
-
-</div>
-
-**Current rotation:** Infinity Nikki has me hooked lately  
-**All-time favorite:** The original Zelda games (yes, I said what I said about TOTK)  
-**Always down for:** Minecraft builds and Deltarune replays
+# Games I'll always come back to
+while true; do
+    play_minecraft()
+    replay_deltarune()
+    avoid_totk()
+done
+```
 
 ## Current Vibe
 
