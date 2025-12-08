@@ -70,7 +70,7 @@ I'm a 22-year-old computer science student at FTCC, grinding towards my Associat
 | **Banned Move** | Playing TOTK |
 
 </div>
-
+<br>
 
 **Achievement Unlocked:** Participated in *Void Future* Closed Playtest 
 
