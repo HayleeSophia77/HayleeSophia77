@@ -8,7 +8,7 @@
 
 <br>
 
-## 🌸 About Me (Cute Edition)
+## 🌸 About Me
 
 Hi! I'm **Haylee**, also known online as **VerryBerryBear** ✨  
 I'm a Computer Science student working toward transferring to a 4-year university to study **Cybersecurity**.  
@@ -32,7 +32,7 @@ I want my GitHub to reflect *who I truly am* — a student who loves tech, creat
 
 ---
 
-## 🍓 Tech Stack (Pastel Theme)
+## 🍓 Tech Stack
 
 <div align="center">
 
@@ -59,7 +59,7 @@ Mock dashboard with login, session state, and metrics.
 
 ---
 
-## 🎀 GitHub Stats (Pastel Versions)
+## 🎀 GitHub Stats
 
 <div align="center">
 
@@ -84,10 +84,7 @@ Mock dashboard with login, session state, and metrics.
 
 ## 🍓 Fun Facts
 
-- 🌸 My aesthetic is cozy, soft, pastel, and cute  
-- 🎮 I play Zelda (not TOTK), Deltarune, Minecraft, Crime Scene Cleaner, Infinity Nikki & more  
-- 🧸 I love mixing tech with creativity  
-- 🎯 Goal: Become a cybersecurity engineer while keeping my personal style  
+- 🎮 I play The Legend of Zelda, Deltarune, Minecraft, Crime Scene Cleaner, Infinity Nikki & more.   
 
 ---
 
