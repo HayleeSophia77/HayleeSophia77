@@ -45,7 +45,7 @@ I'm a 22-year-old computer science student at FTCC, grinding towards my Associat
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HayleeSophia77&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HayleeSophia77&show_icons=true&theme=tokyonight&hide_border=true)
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HayleeSophia77&theme=tokyonight&hide_border=true)
   
