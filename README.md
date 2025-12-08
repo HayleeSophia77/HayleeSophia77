@@ -57,32 +57,20 @@ I'm a 22-year-old computer science student at FTCC, grinding towards my Associat
 
 When I'm not debugging code or working on projects, I'm deep into gaming:
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-**🎮 Current Obsession**
-- Infinity Nikki
-- Crime Scene Cleaner
+![Zelda](https://img.shields.io/badge/Legend_of_Zelda-0969DA?style=for-the-badge&logo=nintendo&logoColor=white)
+![Crime Scene Cleaner](https://img.shields.io/badge/Crime_Scene_Cleaner-1E90FF?style=for-the-badge&logoColor=white)
+![Infinity Nikki](https://img.shields.io/badge/Infinity_Nikki-4682B4?style=for-the-badge&logoColor=white)
 
-**⭐ All-Time Favorites**
-- Legend of Zelda (classics only, TOTK doesn't count)
-- Deltarune
+![Deltarune](https://img.shields.io/badge/Deltarune-5F9EA0?style=for-the-badge&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-00BFFF?style=for-the-badge&logo=minecraft&logoColor=white)
 
-</td>
-<td width="50%">
+</div>
 
-**🔨 Always Building In**
-- Minecraft
-
-**🎯 Also Love**
-- Indie game playtesting
-- Story-driven games
-- Anything with good world-building
-
-</td>
-</tr>
-</table>
+**Current rotation:** Infinity Nikki has me hooked lately  
+**All-time favorite:** The original Zelda games (yes, I said what I said about TOTK)  
+**Always down for:** Minecraft builds and Deltarune replays
 
 ## Current Vibe
 
