@@ -76,7 +76,7 @@ When I'm not debugging code or working on projects, I'm deep into gaming:
 
 <div align="center">
   
-[![Spotify](https://YOUR-VERCEL-APP.vercel.app/api/spotify)](https://open.spotify.com/user/22xpaaevv4dy33p6jgrvy7mea)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22xpaaevv4dy33p6jgrvy7mea)
 
 </div>
 
