@@ -57,20 +57,11 @@ I'm a 22-year-old computer science student at FTCC, grinding towards my Associat
 
 When I'm not debugging code or working on projects, I'm deep into gaming:
 
-<table>
-  <tr>
-    <td>Legend of Zelda series (OG fan, TOTK not included)</td>
-    <td>Crime Scene Cleaner</td>
-  </tr>
-  <tr>
-    <td>Infinity Nikki</td>
-    <td>Deltarune</td>
-  </tr>
-  <tr>
-    <td>Minecraft</td>
-    <td>And a whole lot more</td>
-  </tr>
-</table>
+![Zelda](https://img.shields.io/badge/Legend_of_Zelda-E60012?style=for-the-badge&logo=nintendo&logoColor=white)
+![Crime Scene Cleaner](https://img.shields.io/badge/Crime_Scene_Cleaner-8B0000?style=for-the-badge&logoColor=white)
+![Infinity Nikki](https://img.shields.io/badge/Infinity_Nikki-FF69B4?style=for-the-badge&logoColor=white)
+![Deltarune](https://img.shields.io/badge/Deltarune-8B008B?style=for-the-badge&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 
 ## Current Vibe
 
@@ -84,7 +75,6 @@ When I'm not debugging code or working on projects, I'm deep into gaming:
 
 - Graduated with two A.A.S. degrees in Criminal Justice Technology (Dec 2023, 3.882 GPA)
 - Participated in closed playtests for indie games on Steam
-- Successfully modularized 1500+ line codebase down to 700 lines
 - Mastered credit transfer navigation between institutions
 
 ## Activity Graph
