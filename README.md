@@ -1,5 +1,5 @@
 ## Hi, I am Haylee. 
-I am a 21-year-old college senior who is currently working on getting an associate in computer science. When I graduate, I plan on transferring to a four-year university to continue my journey in computer science and get a bachelor in cybersecurity. I am currently learning advanced java and python, database programming, and system analysis and design. Oustide of coding I am a very avide gamer. My favorite games are any Legend of Zelda game(except TOTK), Crime Scene Cleaner, Infinity Nikki, Deltarune, Minecraft, and more.
+I am a 22-year-old college senior who is currently working on getting an associate in computer science. When I graduate, I plan on transferring to a four-year university to continue my journey in computer science and get a bachelor in cybersecurity. I am currently learning advanced java and python, database programming, and system analysis and design. Oustide of coding I am a very avide gamer. My favorite games are any Legend of Zelda game(except TOTK), Crime Scene Cleaner, Infinity Nikki, Deltarune, Minecraft, and more.
 
 Your are able to reach me through GitHub. 
 
