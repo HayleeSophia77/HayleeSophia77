@@ -94,13 +94,18 @@ I'm a 22-year-old computer science student at FTCC, grinding towards my Associat
 
 [![Lee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HayleeSophia77&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Random Dev Fact
+## Random Fun Fact
 
 <div align="center">
   
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 </div>
+
+**More About Me:**
+- My browser has 47 tabs open at all times and I know what each one is
+- My sleep schedule is a suggestion, not a rule
+- I've lived in North Carolina most of my life and still can't predict the weather
 
 ## Let's Connect
 
