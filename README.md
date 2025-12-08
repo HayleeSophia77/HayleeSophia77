@@ -95,7 +95,7 @@ When I'm not debugging code or working on projects, I'm deep into gaming:
 
 <div align="center">
   
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
 
 </div>
 
