@@ -55,22 +55,23 @@ I'm a 22-year-old computer science student at FTCC, grinding towards my Associat
 
 ## Gaming Life
 
-**My Gaming Tier List:**
-```diff
-S+ Tier (Masterpieces)
-+ Legend of Zelda series (OG titles only)
-+ Deltarune
+<div align="center">
 
-A Tier (Currently Obsessed)
-+ Infinity Nikki
-+ Crime Scene Cleaner
+### Player Stats Dashboard
 
-Always Playing
-+ Minecraft
+| Stat | Value |
+|:-----|:------|
+| **Main Class** | Indie Game Enjoyer |
+| **Current Quest** | Infinity Nikki Fashion Endgame |
+| **Side Quests** | Crime Scene Cleaner, Minecraft Builds |
+| **Legendary Weapons** | All Zelda Games (minus one we don't speak of) |
+| **Party Members** | Deltarune Cast (Ralsei best boy) |
+| **Special Ability** | Steam Playtester |
+| **Banned Move** | Playing TOTK |
 
-The Exception
-- Tears of the Kingdom (we don't talk about this one)
-```
+</div>
+
+**Achievement Unlocked:** Participated in *Void Future* Closed Playtest 
 
 **Side quest unlocked:** Steam playtesting for indie devs
 
