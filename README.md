@@ -57,11 +57,11 @@ I'm a 22-year-old computer science student at FTCC, grinding towards my Associat
 
 When I'm not debugging code or working on projects, I'm deep into gaming:
 
-![Zelda](https://img.shields.io/badge/Legend_of_Zelda-E60012?style=for-the-badge&logo=nintendo&logoColor=white)
-![Crime Scene Cleaner](https://img.shields.io/badge/Crime_Scene_Cleaner-8B0000?style=for-the-badge&logoColor=white)
-![Infinity Nikki](https://img.shields.io/badge/Infinity_Nikki-FF69B4?style=for-the-badge&logoColor=white)
-![Deltarune](https://img.shields.io/badge/Deltarune-8B008B?style=for-the-badge&logoColor=white)
-![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+![Zelda](https://img.shields.io/badge/Legend_of_Zelda-0969DA?style=for-the-badge&logo=nintendo&logoColor=white)
+![Crime Scene Cleaner](https://img.shields.io/badge/Crime_Scene_Cleaner-1E90FF?style=for-the-badge&logoColor=white)
+![Infinity Nikki](https://img.shields.io/badge/Infinity_Nikki-4682B4?style=for-the-badge&logoColor=white)
+![Deltarune](https://img.shields.io/badge/Deltarune-5F9EA0?style=for-the-badge&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-00BFFF?style=for-the-badge&logo=minecraft&logoColor=white)
 
 ## Current Vibe
 
