@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="[https://i.imgur.com/w8aT4ZR.png](https://raw.githubusercontent.com/HayleeSophia77/HayleeSophia77/refs/heads/main/VeryBerryBear.png)" width="500" alt="cute berry banner"/>
+  <img src="https://raw.githubusercontent.com/HayleeSophia77/HayleeSophia77/refs/heads/main/VeryBerryBear.png" width="500" alt="cute berry banner"/>
 </div>
 
 <h1 align="center">🍓 Hi, I'm Haylee! 🍓</h1>
