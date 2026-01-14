@@ -117,6 +117,27 @@ I'm a 22-year-old computer science student at FTCC, grinding towards my Associat
 </div>
 
 ---
+## Information Technology/Computer Programming & Development Classes 
+
+<div align="center">
+  
+CIS-150-Intro to Prog. & Logic
+
+CSC-151-Java Programming
+
+CTS-285-System Desgin & Analysis
+
+CTI-110-Web, Pgm. & DB
+
+CSC-121-Python Programming
+
+CSC-221-Advanced Python Programming
+
+CSC-251-Advanced Java Programming
+
+</div>
+
+---
 
 <div align="center">
   
