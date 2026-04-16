@@ -34,15 +34,11 @@ Right now I'm wrapping up a Django web app capstone called StudyStream with a 4-
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
-
-<div align="center">
   
   **Currently picking up:**
   - Software design patterns
   - Data structures and algorithms (prepping for UNCC)
   - More Django depth: deployment, environment configs, email flows
-
-</div>
 
 ## What I'm Working On
 
