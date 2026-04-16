@@ -54,9 +54,12 @@ Right now I'm wrapping up a Django web app capstone called StudyStream with a 4-
   
 </div>
 
-## Activity Graph
-
-[![Lee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HayleeSophia77&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## Contribution Graph
+ 
+<div align="center">
+  ![Contribution Graph](https://ghchart.rshah.org/4ade80/HayleeSophia77)
+ 
+</div>
 
 ## A Few Facts
 
@@ -88,9 +91,9 @@ Right now I'm wrapping up a Django web app capstone called StudyStream with a 4-
 <div align="center">
 
 CIS-150 — Intro to Programming & Logic &nbsp;|&nbsp; CSC-151 — Java Programming &nbsp;|&nbsp; CTS-285 — System Design & Analysis
-
+ 
 CTI-110 — Web, Pgm. & DB &nbsp;|&nbsp; CSC-121 — Python Programming &nbsp;|&nbsp; CSC-221 — Advanced Python Programming
-
+ 
 CSC-251 — Advanced Java Programming &nbsp;|&nbsp; CSC-134 — C++ Programming &nbsp;|&nbsp; CTS-289 — Capstone Project
 
 </div>
