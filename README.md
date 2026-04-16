@@ -1,74 +1,100 @@
-# Hi, I'm Haylee
+# Hey, I'm Haylee!
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=HayleeSophia77&color=blue&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=HayleySophia77&color=blue&style=flat-square)
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=500&lines=IT+%26+Computer+Programming+Student;Incoming+UNCC+CS+Student+(Fall+2026);Django+%2F+Python+%2F+Java+%2F+MySQL;Indie+Game+Enjoyer;Always+building+something)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Future+Cybersecurity+Professional;Gaming+Enthusiast;Always+Building+Something)
   
 </div>
 
 ## About Me
 
-I'm a 22-year-old IT and Computer Programming student finishing up my A.A.S. at Fayetteville Technical Community College, graduating May 2026. After that, I'm transferring to UNC Charlotte in Fall 2026 to pursue a B.S. in Computer Science with a focus in Software Engineering.
-
-My path here wasn't exactly a straight line. I started in Criminal Justice. I graduated with two A.A.S. degrees in Criminal Justice Technology in December 2023 before realizing tech was where I actually wanted to be. I made the pivot, went all in, and I haven't looked back.
-
-Right now I'm wrapping up a Django web app capstone called StudyStream with a 4-person team. I built out the full authentication system: registration, login, logout, password changes, and a forgot-password email reset flow. It's been the most hands-on project I've done, and honestly the most fun.
+I'm a 22-year-old computer science student at FTCC, grinding towards my Associate degree before transferring to UNC Charlotte in Fall 2026 for my Bachelor's in Computer Science with a focus on Cybersecurity. I love the challenge of breaking down complex problems and building solutions that actually work.
 
 - **Current Status**: Senior at Fayetteville Technical Community College
-- **Next Adventure**: UNC Charlotte - B.S. in Computer Science (Software Engineering focus)
+- **Next Adventure**: UNC Charlotte - B.S. in Computer Science (Cybersecurity focus)
 - **In The Lab**: Advanced Java, Python, Database Programming, System Analysis & Design
+- **Career Goal**: Cybersecurity Professional
 - **After Hours**: Gaming, lots of gaming
 
 ## Tech Stack
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-2088FF?style=for-the-badge&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-00A4E4?style=for-the-badge&logo=Streamlit&logoColor=white)
 
-</div>
-
-**Currently picking up:**
-- Software design patterns
-- Data structures and algorithms (prepping for UNCC)
-- More Django depth: deployment, environment configs, email flows
+**Currently Exploring:**
+- Cybersecurity fundamentals
+- Database design and optimization
+- GUI development with Java
+- Code analysis and AST parsing
+- Web frameworks (Streamlit, Flask)
 
 ## What I'm Working On
 
-<div align="center">
-
-**StudyStream** — Django web app built with a 4-person team for our IT capstone. I built the full authentication system from scratch: registration, login, logout, change password, and a forgot-password flow using Gmail SMTP. Also managed branching and merge conflict resolution when six branches had diverged. Wrapping up May 2026.
-
-**Portfolio site** — Live at [hayleesophia77.github.io](https://hayleesophia77.github.io)
-
-</div>
+- Building Python autograders with AST parsing for code analysis
+- Developing Java GUI applications with custom themes
+- Creating Streamlit web apps with authentication systems
+- Working on data visualization projects with pandas and seaborn
+- Prepping for my transfer to UNC Charlotte
 
 ## GitHub Stats
 
 <div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HayleeSophia77&show_icons=true&theme=algolia&hide_border=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HayleeSophia77&theme=algolia&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HayleeSophia77&layout=compact&theme=algolia&hide_border=true)
+  
+</div>
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HayleeSophia77&show_icons=true&theme=algolia&hide_border=true)
+## Gaming Life
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HayleeSophia77&theme=algolia&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HayleeSophia77&layout=compact&theme=algolia&hide_border=true)
+### Player Stats Dashboard
+
+| Stat | Value |
+|:-----|:------|
+| **Main Class** | Indie Game Enjoyer |
+| **Current Quest** | Infinity Nikki Fashion Endgame |
+| **Side Quests** | Crime Scene Cleaner, Minecraft Builds |
+| **Legendary Weapons** | All Zelda Games (minus one we don't speak of) |
+| **Party Members** | Deltarune Cast (Ralsei best boy) |
+| **Special Ability** | Steam Playtester |
+| **Banned Move** | Playing TOTK |
+
+</div>
+<br>
+
+**Achievement Unlocked:** Participated in *Void Future* Closed Playtest 
+
+**Side quest unlocked:** Steam playtesting for indie devs
+
+## Current Vibe
+
+<div align="center">
+  
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22xpaaevv4dy33p6jgrvy7mea)
 
 </div>
 
-## Contribution Graph
+## Achievements
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HayleeSophia77&theme=github-compact&hide_border=true" />
-</p>
+- Graduated with two A.A.S. degrees in Criminal Justice Technology (Dec 2023, 3.882 GPA)
+- Participated in closed playtests for indie games on Steam
+- Mastered credit transfer navigation between institutions
 
-## A Few Facts
+## Activity Graph
+
+[![Lee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HayleeSophia77&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Dev Facts
 
 <div align="center">
 
@@ -76,41 +102,45 @@ Right now I'm wrapping up a Django web app capstone called StudyStream with a 4-
 
 *My sleep schedule is a suggestion, not a rule*
 
-*I've lived in NC most of my life and still can't predict the weather*
-
-*I went from studying Criminal Justice to writing Django auth flows — the pipeline is real*
+*I've lived in North Carolina most of my life and still can't predict the weather*
 
 </div>
 
 ## Let's Connect
 
 <div align="center">
-
+  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HayleeSophia77)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haylee-p-5503ba243)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:paredes.s.lee@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=github-pages&logoColor=white)](https://hayleesophia77.github.io)
+
+</div>
+
+---
+## Information Technology/Computer Programming & Development Classes 
+
+<div align="center">
+  
+CIS-150-Intro to Prog. & Logic
+
+CSC-151-Java Programming
+
+CTS-285-System Desgin & Analysis
+
+CTI-110-Web, Pgm. & DB
+
+CSC-121-Python Programming
+
+CSC-221-Advanced Python Programming
+
+CSC-251-Advanced Java Programming
 
 </div>
 
 ---
 
-## Classes — IT / Computer Programming & Development
-
 <div align="center">
-
-CIS-150 — Intro to Programming & Logic &nbsp;|&nbsp; CSC-151 — Java Programming &nbsp;|&nbsp; CTS-285 — System Design & Analysis
-
-CTI-110 — Web, Pgm. & DB &nbsp;|&nbsp; CSC-121 — Python Programming &nbsp;|&nbsp; CSC-221 — Advanced Python Programming
-
-CSC-251 — Advanced Java Programming &nbsp;|&nbsp; CSC-134 — C++ Programming &nbsp;|&nbsp; CTS-289 — Capstone Project
-
-</div>
-
----
-
-<div align="center">
-
-**Thanks for stopping by.**
-
+  
+**Thanks for stopping by!**
+  
 </div>
