@@ -65,10 +65,13 @@ Right now I'm wrapping up a Django web app capstone called StudyStream with a 4-
 ## Contribution Graph
  
 <div align="center">
-
-![Contribution Graph](https://ghchart.rshah.org/238636/HayleeSophia77)
- 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HayleeSophia77/HayleeSophia77/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HayleeSophia77/HayleeSophia77/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/HayleeSophia77/HayleeSophia77/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 </div>
+
 
 ## A Few Facts
 
