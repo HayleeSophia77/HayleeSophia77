@@ -65,7 +65,7 @@ Right now I'm wrapping up a Django web app capstone called StudyStream with a 4-
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HayleeSophia77&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HayleeSophia77&theme=github-compact&hide_border=true"/>
 </p>
 
 ## A Few Facts
