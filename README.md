@@ -66,7 +66,7 @@ Right now I'm wrapping up a Django web app capstone called StudyStream with a 4-
  
 <div align="center">
 
-  [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HayleeSophia77&bg_color=0d1117&color=4ade80&line=4ade80&point=ffffff&area=true&hide_border=true)](https://github.com/HayleeSophia77)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HayleeSophia77&bg_color=0d1117&color=4ade80&line=4ade80&point=ffffff&area=true&hide_border=true)](https://github.com/HayleeSophia77)
  
 </div>
 
