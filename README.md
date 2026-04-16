@@ -46,8 +46,7 @@ Right now I'm wrapping up a Django web app capstone called StudyStream with a 4-
 
 **StudyStream** — Django web app built with a 4-person team for our IT capstone. I built the full authentication system from scratch: registration, login, logout, change password, and a forgot-password flow using Gmail SMTP. Also managed branching and merge conflict resolution when six branches had diverged. Wrapping up May 2026.
 
-**Portfolio site** — Live at [hayleesophia77.github.io](https://hayleesophia77.github.io)
-
+**Portfolio site** — Live at 
 </div>
 
 ## GitHub Stats
