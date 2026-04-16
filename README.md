@@ -67,7 +67,7 @@ Right now I'm wrapping up a Django web app capstone called StudyStream with a 4-
 ## Contribution Graph
  
 <div align="center">
-  
+
   ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HayleeSophia77&theme=github_dark)
  
 </div>
