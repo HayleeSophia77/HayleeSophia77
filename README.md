@@ -1,47 +1,47 @@
-# Hey, I'm Haylee!
+# hey, i'm haylee
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=HayleySophia77&color=blue&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=HayleeSophia77&color=blue&style=flat-square)
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Future+Cybersecurity+Professional;Gaming+Enthusiast;Always+Building+Something)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&width=500&lines=IT+%26+Computer+Programming+Student;Incoming+UNCC+CS+Student+(Fall+2026);Django+%2F+Python+%2F+Java+%2F+MySQL;Indie+Game+Enjoyer;Always+building+something)
   
 </div>
 
-## About Me
+## about me
 
-I'm a 22-year-old computer science student at FTCC, grinding towards my Associate degree before transferring to UNC Charlotte in Fall 2026 for my Bachelor's in Computer Science with a focus on Cybersecurity. I love the challenge of breaking down complex problems and building solutions that actually work.
+22-year-old finishing up my A.A.S. in Information Technology / Computer Programming & Development at FTCC, then heading to UNC Charlotte in Fall 2026 for a B.S. in Computer Science with a Software Engineering focus. I came from a Criminal Justice background and made a full pivot to tech — genuinely the best call I've made.
 
-- **Current Status**: Senior at Fayetteville Technical Community College
-- **Next Adventure**: UNC Charlotte - B.S. in Computer Science (Cybersecurity focus)
-- **In The Lab**: Advanced Java, Python, Database Programming, System Analysis & Design
-- **Career Goal**: Cybersecurity Professional
-- **After Hours**: Gaming, lots of gaming
+- **Where I'm at**: Fayetteville, NC (moving to Charlotte in August)
+- **Next up**: UNC Charlotte — B.S. Computer Science, Software Engineering
+- **Right now**: Finishing a Django capstone with a 4-person team (StudyStream)
+- **Looking for**: Remote or hybrid entry-level dev roles
+- **After hours**: Indie games, K-pop, wire-wrapping crystal jewelry, too many browser tabs
 
-## Tech Stack
+## tech stack
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-2088FF?style=for-the-badge&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-00A4E4?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Currently Exploring:**
-- Cybersecurity fundamentals
-- Database design and optimization
-- GUI development with Java
-- Code analysis and AST parsing
-- Web frameworks (Streamlit, Flask)
+**currently picking up:**
+- software design patterns
+- more Django (auth flows, SMTP, deployment)
+- data structures & algorithms prep for UNCC
 
-## What I'm Working On
+## what i'm working on
 
-- Building Python autograders with AST parsing for code analysis
-- Developing Java GUI applications with custom themes
-- Creating Streamlit web apps with authentication systems
-- Working on data visualization projects with pandas and seaborn
-- Prepping for my transfer to UNC Charlotte
+- **StudyStream** — Django web app built with a 4-person team. Full auth system (login, register, password reset via email), clean UI, GitHub collaboration across multiple branches. Capstone project wrapping up May 2026.
+- **Portfolio site** — live at [hayleesophia77.github.io](https://hayleesophia77.github.io)
+- prepping for the UNCC transfer and whatever comes next
 
-## GitHub Stats
+## github stats
 
 <div align="center">
   
@@ -53,30 +53,27 @@ I'm a 22-year-old computer science student at FTCC, grinding towards my Associat
   
 </div>
 
-## Gaming Life
+## gaming life
 
 <div align="center">
 
-### Player Stats Dashboard
-
-| Stat | Value |
+| stat | value |
 |:-----|:------|
-| **Main Class** | Indie Game Enjoyer |
-| **Current Quest** | Infinity Nikki Fashion Endgame |
-| **Side Quests** | Crime Scene Cleaner, Minecraft Builds |
-| **Legendary Weapons** | All Zelda Games (minus one we don't speak of) |
-| **Party Members** | Deltarune Cast (Ralsei best boy) |
-| **Special Ability** | Steam Playtester |
-| **Banned Move** | Playing TOTK |
+| **main class** | indie game enjoyer |
+| **current quest** | Infinity Nikki fashion endgame |
+| **side quests** | Crime Scene Cleaner, Minecraft builds |
+| **legendary weapons** | all Zelda games (minus one we don't speak of) |
+| **party members** | Deltarune cast (Ralsei best boy) |
+| **special ability** | Steam playtester |
+| **banned move** | playing TOTK |
 
 </div>
-<br>
 
-**Achievement Unlocked:** Participated in *Void Future* Closed Playtest 
+**achievement unlocked:** participated in *Void Future* closed playtest
 
-**Side quest unlocked:** Steam playtesting for indie devs
+**side quest unlocked:** Steam playtesting for indie devs
 
-## Current Vibe
+## current vibe
 
 <div align="center">
   
@@ -84,56 +81,54 @@ I'm a 22-year-old computer science student at FTCC, grinding towards my Associat
 
 </div>
 
-## Achievements
+## achievements
 
-- Graduated with two A.A.S. degrees in Criminal Justice Technology (Dec 2023, 3.882 GPA)
-- Participated in closed playtests for indie games on Steam
-- Mastered credit transfer navigation between institutions
+- graduating with A.A.S. in IT / Computer Programming & Development, May 2026
+- previously graduated with two A.A.S. degrees in Criminal Justice Technology (Dec 2023, 3.882 GPA)
+- built a full Django authentication system from scratch as part of a team capstone
+- participated in closed playtests for indie games on Steam
+- successfully navigated a full career pivot into tech
 
-## Activity Graph
+## activity graph
 
 [![Lee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HayleeSophia77&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Dev Facts
+## dev facts
 
 <div align="center">
 
-*My browser has 47 tabs open at all times and I know what each one is*
+*my browser has 47 tabs open at all times and i know what each one is*
 
-*My sleep schedule is a suggestion, not a rule*
+*my sleep schedule is a suggestion, not a rule*
 
-*I've lived in North Carolina most of my life and still can't predict the weather*
+*i've lived in NC most of my life and still can't predict the weather*
+
+*i came from criminal justice and now i'm writing Django auth flows — the pipeline is real*
 
 </div>
 
-## Let's Connect
+## let's connect
 
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HayleeSophia77)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haylee-p-5503ba243)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:paredes.s.lee@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=github-pages&logoColor=white)](https://hayleesophia77.github.io)
 
 </div>
 
 ---
-## Information Technology/Computer Programming & Development Classes 
+
+## classes taken — IT / Computer Programming & Development
 
 <div align="center">
-  
-CIS-150-Intro to Prog. & Logic
 
-CSC-151-Java Programming
+CIS-150 — Intro to Programming & Logic | CSC-151 — Java Programming | CTS-285 — System Design & Analysis
 
-CTS-285-System Desgin & Analysis
+CTI-110 — Web, Pgm. & DB | CSC-121 — Python Programming | CSC-221 — Advanced Python Programming
 
-CTI-110-Web, Pgm. & DB
-
-CSC-121-Python Programming
-
-CSC-221-Advanced Python Programming
-
-CSC-251-Advanced Java Programming
+CSC-251 — Advanced Java Programming | CSC-134 — C++ Programming | CTS-289 — Capstone Project
 
 </div>
 
@@ -141,6 +136,6 @@ CSC-251-Advanced Java Programming
 
 <div align="center">
   
-**Thanks for stopping by!**
+**thanks for stopping by.**
   
 </div>
