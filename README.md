@@ -24,21 +24,21 @@ Right now I'm wrapping up a Django web app capstone called StudyStream with a 4-
 ## Tech Stack
 
 <div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Git](https://img.shields.io/badge/GIT-2088FF?style=for-the-badge&logo=git&logoColor=white)
-  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-2088FF?style=for-the-badge&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
-  
-  **Currently picking up:**
-  - Software design patterns
-  - Data structures and algorithms (prepping for UNCC)
-  - More Django depth: deployment, environment configs, email flows
+
+**Currently picking up:**
+- Software design patterns
+- Data structures and algorithms (prepping for UNCC)
+- More Django depth: deployment, environment configs, email flows
 
 ## What I'm Working On
 
@@ -53,21 +53,21 @@ Right now I'm wrapping up a Django web app capstone called StudyStream with a 4-
 ## GitHub Stats
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HayleeSophia77&show_icons=true&theme=algolia&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HayleeSophia77&theme=algolia&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HayleeSophia77&layout=compact&theme=algolia&hide_border=true)
-  
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HayleeSophia77&show_icons=true&theme=algolia&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HayleeSophia77&theme=algolia&hide_border=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HayleeSophia77&layout=compact&theme=algolia&hide_border=true)
+
 </div>
 
 ## Contribution Graph
- 
+
 <div align="center">
-  
-    ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HayleeSophia77&theme=github-compact&hide_border=true&area=true) 
- 
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HayleeSophia77&theme=github-compact&hide_border=true&area=true)
+
 </div>
 
 ## A Few Facts
@@ -80,12 +80,14 @@ Right now I'm wrapping up a Django web app capstone called StudyStream with a 4-
 
 *I've lived in NC most of my life and still can't predict the weather*
 
+*I went from studying Criminal Justice to writing Django auth flows — the pipeline is real*
+
 </div>
 
 ## Let's Connect
 
 <div align="center">
-  
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HayleeSophia77)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haylee-p-5503ba243)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:paredes.s.lee@gmail.com)
@@ -100,9 +102,9 @@ Right now I'm wrapping up a Django web app capstone called StudyStream with a 4-
 <div align="center">
 
 CIS-150 — Intro to Programming & Logic &nbsp;|&nbsp; CSC-151 — Java Programming &nbsp;|&nbsp; CTS-285 — System Design & Analysis
- 
+
 CTI-110 — Web, Pgm. & DB &nbsp;|&nbsp; CSC-121 — Python Programming &nbsp;|&nbsp; CSC-221 — Advanced Python Programming
- 
+
 CSC-251 — Advanced Java Programming &nbsp;|&nbsp; CSC-134 — C++ Programming &nbsp;|&nbsp; CTS-289 — Capstone Project
 
 </div>
@@ -110,7 +112,7 @@ CSC-251 — Advanced Java Programming &nbsp;|&nbsp; CSC-134 — C++ Programming 
 ---
 
 <div align="center">
-  
+
 **Thanks for stopping by.**
-  
+
 </div>
