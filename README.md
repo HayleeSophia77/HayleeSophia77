@@ -75,8 +75,6 @@ Right now I'm wrapping up a Django web app capstone called StudyStream with a 4-
 
 *I've lived in NC most of my life and still can't predict the weather*
 
-*I went from studying Criminal Justice to writing Django auth flows — the pipeline is real*
-
 </div>
 
 ## Let's Connect
