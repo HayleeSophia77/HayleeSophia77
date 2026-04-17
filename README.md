@@ -44,9 +44,9 @@ Right now I'm wrapping up a Django web app capstone called StudyStream with a 4-
 
 <div align="center">
 
-**StudyStream** — Django web app built with a 4-person team for our IT capstone. I built the full authentication system from scratch: registration, login, logout, change password, and a forgot-password flow using Gmail SMTP. Also managed branching and merge conflict resolution when six branches had diverged. Wrapping up May 2026.
+**StudyStream** - Django web app built with a 4-person team for our IT capstone. I built the full authentication system from scratch: registration, login, logout, change password, and a forgot-password flow using Gmail SMTP. Also managed branching and merge conflict resolution when six branches had diverged. Wrapping up May 2026.
 
-**Portfolio site** — Live at 
+**Portfolio site** - Live at 
 </div>
 
 ## GitHub Stats
@@ -90,15 +90,15 @@ Right now I'm wrapping up a Django web app capstone called StudyStream with a 4-
 
 ---
 
-## Classes — IT / Computer Programming & Development
+## Classes - IT / Computer Programming & Development
 
 <div align="center">
 
-CIS-150 — Intro to Programming & Logic &nbsp;|&nbsp; CSC-151 — Java Programming &nbsp;|&nbsp; CTS-285 — System Design & Analysis
+CIS-150 - Intro to Programming & Logic &nbsp;|&nbsp; CSC-151 - Java Programming &nbsp;|&nbsp; CTS-285 - System Design & Analysis
 
-CTI-110 — Web, Pgm. & DB &nbsp;|&nbsp; CSC-121 — Python Programming &nbsp;|&nbsp; CSC-221 — Advanced Python Programming
+CTI-110 - Web, Pgm. & DB &nbsp;|&nbsp; CSC-121 - Python Programming &nbsp;|&nbsp; CSC-221 - Advanced Python Programming
 
-CSC-251 — Advanced Java Programming &nbsp;|&nbsp; CSC-134 — C++ Programming &nbsp;|&nbsp; CTS-289 — Capstone Project
+CSC-251 - Advanced Java Programming &nbsp;|&nbsp; CSC-134 - C++ Programming &nbsp;|&nbsp; CTS-289 - Capstone Project
 
 </div>
 
