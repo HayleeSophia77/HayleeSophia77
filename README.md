@@ -106,6 +106,6 @@ CSC-251 - Advanced Java Programming &nbsp;|&nbsp; CSC-134 - C++ Programming &nbs
 
 <div align="center">
 
-**Thanks for stopping by.**
+**Thanks for stopping by! 🐻**
 
 </div>
