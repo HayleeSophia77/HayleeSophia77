@@ -117,7 +117,7 @@ Right now I'm wrapping up a Django web app capstone called StudyStream with a 4-
 [![GitHub](https://img.shields.io/badge/GitHub-1565C0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HayleeSophia77)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haylee-p-5503ba243)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:paredes.s.lee@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1E88E5?style=for-the-badge&logo=github-pages&logoColor=white)](https://hayleesophia77.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E88E5?style=for-the-badge&logo=github-pages&logoColor=white)](https://hayleesophia77.github.io/HayleeSophia77/)
 
 </div>
 
