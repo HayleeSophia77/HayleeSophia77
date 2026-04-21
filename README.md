@@ -1,4 +1,8 @@
-# Hi, I'm Haylee!
+<div align="center">
+
+  # Hi, I'm Haylee!
+
+</div>
 
 <div align="center">
   
