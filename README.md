@@ -8,7 +8,11 @@
   
 </div>
 
+<div align="center">
+
 ## About Me
+
+</div>
 
 I'm a 22-year-old IT and Computer Programming student finishing up my A.A.S. at Fayetteville Technical Community College, graduating May 2026. After that, I'm transferring to UNC Charlotte in Fall 2026 to pursue a B.S. in Computer Science with a focus in Software Engineering.
 
@@ -21,7 +25,11 @@ Right now I'm wrapping up a Django web app capstone called StudyStream with a 4-
 - **In The Lab**: Advanced Java, Python, Database Programming, System Analysis & Design
 - **After Hours**: Gaming, lots of gaming
 
+<div align="center">
+
 ## Tech Stack
+
+</div>
 
 <div align="center">
 
@@ -40,7 +48,11 @@ Right now I'm wrapping up a Django web app capstone called StudyStream with a 4-
 - Data structures and algorithms (prepping for UNCC)
 - More Django depth: deployment, environment configs, email flows
 
+<div align="center">
+
 ## What I'm Working On
+
+</div>
 
 <div align="center">
 
@@ -49,7 +61,11 @@ Right now I'm wrapping up a Django web app capstone called StudyStream with a 4-
 **Portfolio site** - Live at 
 </div>
 
+<div align="center">
+
 ## GitHub Stats
+
+</div>
 
 <div align="center">
 
@@ -61,11 +77,19 @@ Right now I'm wrapping up a Django web app capstone called StudyStream with a 4-
 
 </div>
 
+<div align="center">
+
 ## Contribution Graph
+
+</div>
 
 [![Lee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HayleeSophia77&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">
+
 ## A Few Facts
+
+</div>
 
 <div align="center">
 
@@ -77,7 +101,11 @@ Right now I'm wrapping up a Django web app capstone called StudyStream with a 4-
 
 </div>
 
+<div align="center">
+
 ## Let's Connect
+
+</div>
 
 <div align="center">
 
@@ -89,8 +117,11 @@ Right now I'm wrapping up a Django web app capstone called StudyStream with a 4-
 </div>
 
 ---
+<div align="center">
 
 ## Classes - IT / Computer Programming & Development
+
+</div>
 
 <div align="center">
 
