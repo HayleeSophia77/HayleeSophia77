@@ -43,7 +43,6 @@ Right now I'm wrapping up a Django web app capstone called StudyStream with a 4-
 ![Git](https://img.shields.io/badge/GIT-2088FF?style=for-the-badge&logo=git&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1E88E5?style=for-the-badge&logo=streamlit&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-1976D2?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-0D47A1?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
