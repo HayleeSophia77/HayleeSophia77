@@ -16,8 +16,6 @@
 
 ## About Me
 
-</div>
-
 I'm a 22-year-old IT and Computer Programming student finishing up my A.A.S. at Fayetteville Technical Community College, graduating May 2026. After that, I'm transferring to UNC Charlotte in Fall 2026 to pursue a B.S. in Computer Science with a focus in Software Engineering.
 
 My path here wasn't exactly a straight line. I started in Criminal Justice. I graduated with two A.A.S. degrees in Criminal Justice Technology in December 2023 before realizing tech was where I actually wanted to be. I made the pivot, went all in, and I haven't looked back.
@@ -26,8 +24,10 @@ Right now I'm wrapping up a Django web app capstone called StudyStream with a 4-
 
 - **Current Status**: Senior at Fayetteville Technical Community College
 - **Next Adventure**: UNC Charlotte - B.S. in Computer Science (Software Engineering focus)
-- **In The Lab**: Advanced Java, Python, Database Programming, System Analysis & Design
+- **In The Lab**: Programming Capstone Project, & C++ Programming
 - **After Hours**: Gaming, lots of gaming
+
+</div>
 
 <div align="center">
 
